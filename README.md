@@ -4,7 +4,7 @@ This project is a fork of [ang-jsoneditor](https://github.com/mariohmol/ang-json
 
 Angular Json Editor (wrapper for [jsoneditor](https://github.com/josdejong/jsoneditor)). View/Edit Json file with formatting.
 
-Working with latest Angular 20.
+Working with latest Angular 21.
 
 ![Demo Image](/src/assets/printDemo.png)
 
